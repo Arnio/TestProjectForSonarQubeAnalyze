@@ -1,0 +1,15 @@
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\bin\Debug\TestProjectForSonarQubeAnalyze.exe.config
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\bin\Debug\TestProjectForSonarQubeAnalyze.exe
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\bin\Debug\TestProjectForSonarQubeAnalyze.pdb
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.csprojAssemblyReference.cache
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\MainWindow.g.cs
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\App.g.cs
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze_MarkupCompile.cache
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze_MarkupCompile.lref
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\MainWindow.baml
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.g.resources
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.Properties.Resources.resources
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.csproj.GenerateResource.cache
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.csproj.CoreCompileInputs.cache
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.exe
+C:\Users\ovarsh\source\repos\TestProjectForSonarQubeAnalyze\TestProjectForSonarQubeAnalyze\obj\Debug\TestProjectForSonarQubeAnalyze.pdb
